@@ -53,6 +53,13 @@
         "testCaseType": "TestCase",
         "executionTemplateInvokeIsolated": false,
         "fileName": "Test\\TestCase.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "46e1ca27-4aa8-4350-a1e3-f79faa84b174",
+        "testCaseType": "TestCase",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "Test\\TC_login.xaml"
       }
     ],
     "modernBehavior": true
