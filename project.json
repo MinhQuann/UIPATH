@@ -49,17 +49,17 @@
       },
       {
         "editingStatus": "InProgress",
-        "testCaseId": "b5831519-e038-4640-9ba7-108790d85027",
+        "testCaseId": "74028ee6-f570-47c5-adae-a72e490ecf7a",
         "testCaseType": "TestCase",
         "executionTemplateInvokeIsolated": false,
-        "fileName": "Test\\TestCase.xaml"
+        "fileName": "Test\\TC_LoginFail.xaml"
       },
       {
         "editingStatus": "InProgress",
         "testCaseId": "46e1ca27-4aa8-4350-a1e3-f79faa84b174",
         "testCaseType": "TestCase",
         "executionTemplateInvokeIsolated": false,
-        "fileName": "Test\\TC_login.xaml"
+        "fileName": "Test\\TC_loginSuccess.xaml"
       }
     ],
     "modernBehavior": true
